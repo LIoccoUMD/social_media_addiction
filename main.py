@@ -1,6 +1,9 @@
 import os
 import logging
 
+# Link to dataset:
+# https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
+
 # Set up logging
 logging.basicConfig(
     filename='log/social_media_stats.log',
