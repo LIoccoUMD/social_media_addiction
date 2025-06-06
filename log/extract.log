@@ -1,0 +1,24 @@
+2025-06-05 20:01:37,137 - INFO - Starting Kaggle dataset extraction.
+2025-06-05 20:01:38,530 - INFO - Dataset downloaded and extracted successfully.
+2025-06-05 20:01:38,773 - INFO - Dataset metadata downloaded successfully.
+2025-06-05 20:20:39,458 - INFO - Starting Kaggle dataset extraction.
+2025-06-05 20:20:40,152 - ERROR - Problem with loading the dataset. Please try again.
+2025-06-05 20:20:50,211 - INFO - Starting Kaggle dataset extraction.
+2025-06-05 20:20:50,789 - ERROR - Problem with loading the dataset. Please try again.
+2025-06-05 20:28:39,755 - INFO - Starting Kaggle dataset extraction.
+2025-06-05 20:28:40,288 - INFO - Dataset downloaded and extracted successfully.
+2025-06-05 20:28:40,597 - INFO - Dataset metadata downloaded successfully.
+2025-06-05 20:29:50,780 - INFO - Starting Kaggle dataset extraction.
+2025-06-05 20:29:51,142 - INFO - Dataset downloaded and extracted successfully.
+2025-06-05 20:29:51,368 - INFO - Dataset metadata downloaded successfully.
+2025-06-06 00:10:23,466 - INFO - Starting Kaggle dataset extraction.
+2025-06-06 00:10:23,974 - INFO - Dataset downloaded and extracted successfully.
+2025-06-06 00:10:24,221 - INFO - Dataset metadata downloaded successfully.
+2025-06-06 00:10:48,507 - INFO - Starting Kaggle dataset extraction.
+2025-06-06 00:10:48,649 - ERROR - Problem with loading the dataset. Please try again.
+2025-06-06 00:10:55,192 - INFO - Starting Kaggle dataset extraction.
+2025-06-06 00:10:55,397 - ERROR - Problem with loading the dataset. Please try again.
+2025-06-06 00:11:08,437 - INFO - Starting Kaggle dataset extraction.
+2025-06-06 00:11:08,618 - ERROR - Problem with loading the dataset. Please try again.
+2025-06-06 00:11:22,293 - INFO - Starting Kaggle dataset extraction.
+2025-06-06 00:11:22,445 - ERROR - Problem with loading the dataset. Please try again.
