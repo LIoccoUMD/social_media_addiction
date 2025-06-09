@@ -19,8 +19,7 @@ print(f"Columns: \n{df.columns}")
 
 
 # Student_ID, avg_daily_usage, Country, Most_Used_platform, Sleep_Hours_Per_Night
-def avgDailyUsage():
-    avg = df[["Student_ID","Avg_Daily_Usage_Hours"]]
-    print(avg)
-    
-avgDailyUsage()
+def avgDailyUsageByCountry():
+    avg = df[["Student_ID","Avg_Daily_Usage_Hours","Country"]]
+    return avg.groupby("Country")["Avg_Daily_Usage_Hours"].mean()    
+print(avgDailyUsageByCountry())
