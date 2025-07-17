@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
     # Step 2: Transform Data
     run_step("Transform", "etl/transform.py")
-
+    
     # Step 3: 
 
     logging.info("Finished running all steps.")

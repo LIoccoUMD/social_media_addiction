@@ -1,5 +1,12 @@
 import logging
 import pandas as pd
+import unittest
+
+def test_df_shape():
+    expected_shape = (705, 13)
+    assert df.shape() == expected_shape
+    
+
 
 def load_data(file_path):
     """Loads the data from a CSV file with path file_path.
@@ -22,3 +29,5 @@ def avgDailyUsageByCountry():
     avg = df[["Student_ID","Avg_Daily_Usage_Hours","Country"]]
     return avg.groupby("Country")["Avg_Daily_Usage_Hours"].mean()    
 print(avgDailyUsageByCountry())
+
+print(test_df_shape)

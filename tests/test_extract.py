@@ -2,6 +2,10 @@ import kaggle
 import logging
 import unittest
 
+def test_download_data():
+    pass    
+
+
 logging.basicConfig(filename='log/extract.log', level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Starting Kaggle dataset extraction.")
